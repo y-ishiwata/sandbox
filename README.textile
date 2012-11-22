@@ -1,0 +1,33 @@
+h1. sandbox
+
+このプロジェクトの目的はgithubの学習・理解およびPHP5.4/ZendFramework2にフォーカスしています。
+
+_なお、wiki文法はredmine互換のTextileを暫定採用したいと思います。_
+
+h2. ミッション
+
+* githubの基本コマンドの理解
+** git clone
+** git commit
+** git push
+* githubを利用したチーム開発に必要なコマンドの理解
+** git pull
+** git merge
+** git rebase
+* PHP5.4の理解
+** 新機能
+** なくなった機能
+* ZendFramework2のHello World
+** とりあえずCRUD
+
+h2. 開発環境
+
+|OS|Windows XP/Windows 7/Windows 8|
+|開発言語|PHP5.4.x|
+|Webサーバ|IIS|
+|フレームワーク|ZendFramework2.x|
+
+h2. 実行環境
+
+Windows Azure(Web Sites)
+
